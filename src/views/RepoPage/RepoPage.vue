@@ -7,7 +7,7 @@
             :rows="rows"
             title="Carbon Repositories"
             helperText="A collection of public Carbon repositories."
-        />
+          />
       </div>
     </div>
   </div>
